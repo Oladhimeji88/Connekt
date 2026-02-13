@@ -1,7 +1,7 @@
 
-  # Build Exact Design
+  # Connekt Page
 
-  This is a code bundle for Build Exact Design. The original project is available at https://www.figma.com/design/5tD5XBWynU91jrHy5neSUL/Build-Exact-Design.
+  This is a code bundle for Connekt . 
 
   ## Running the code
 
